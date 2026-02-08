@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="sony_sab" tvg-name="Sony SAB" tvg-logo="http://127.0.0.1:8090/Dishtv.png" group-title="Hindi Entertainment",Sony SAB
+http://127.0.0.1:8090/stream.m3u8
