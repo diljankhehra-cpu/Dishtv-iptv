@@ -1,0 +1,30 @@
+name: Generate EPG
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run script
+        run: python sonypal.py
+
+      - name: Commit
+        run: |
+          git config --global user.name "epg-bot"
+          git config --global user.email "bot@github.com"
+          git add sonypal.xml
+          git commit -m "update epg" || echo no changes
+          git push
