@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Chardikla Time TV.in@SD" tvg-name="Chardikla Time TV" tvg-chno="1152" ch-number="1152" group-title="Punjabi",Chardikla Time TV
+https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Chardikla Time TV.in@SD" tvg-name="Chardikla Time TV" tvg-chno="1152" ch-number="1152" group-title="Punjabi",Chardikla Time TV
+https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="PTC Punjabi.in@SD" tvg-name="PTC Punjabi" tvg-chno="1154" ch-number="1154" group-title="Punjabi",PTC Punjabi
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+#EXTINF:-1 tvg-id="PTC Punjabi.in@SD" tvg-name="PTC Punjabi" tvg-chno="1154" ch-number="1154" group-title="Punjabi",PTC Punjabi
+#EXTINF:-1 tvg-id="PTC Punjabi.in@SD" tvg-name="PTC Punjabi" tvg-chno="1154" ch-number="1154" group-title="Punjabi",PTC Punjabi
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+#EXTINF:-1 tvg-id="Zee Punjabi.in@SD" tvg-name="Zee Punjabi" tvg-chno="1156" ch-number="1156" group-title="Punjabi",Zee Punjabi
+http://161.248.38.40:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="DD Punjabi.in@SD" tvg-name="DD Punjabi" tvg-chno="1169" ch-number="1169" group-title="Punjabi",DD Punjabi
+http://103.78.149.54:8000/play/a00o/index.m3u8
+https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-name="Pitaara" tvg-chno="1181" ch-number="1181" group-title="Punjabi",Pitaara
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-name="Pitaara" tvg-chno="1181" ch-number="1181" group-title="Punjabi",Pitaara
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-name="Pitaara" tvg-chno="1181" ch-number="1181" group-title="Punjabi",Pitaara
+#EXTINF:-1 tvg-id="PTC Chakde.in@SD" tvg-name="PTC Chakde" tvg-chno="1183" ch-number="1183" group-title="Punjabi",PTC Chakde
+https://cdn-1.pishow.tv/live/449/master.m3u8
+#EXTINF:-1 tvg-id="PTC Punjabi Gold.in@SD" tvg-name="PTC Punjabi Gold" tvg-chno="1184" ch-number="1184" group-title="Punjabi",PTC Punjabi Gold
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+#EXTINF:-1 tvg-id="9X Tashan.in@SD" tvg-name="9X Tashan" tvg-chno="1185" ch-number="1185" group-title="Punjabi",9X Tashan
+https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-id="PTC Music.in@SD" tvg-name="PTC Music" tvg-chno="1186" ch-number="1186" group-title="Punjabi",PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 tvg-id="MH One.in@SD" tvg-name="MH One" tvg-chno="1187" ch-number="1187" group-title="Punjabi",MH One
+http://103.78.149.54:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="MH One.in@SD" tvg-name="MH One" tvg-chno="1187" ch-number="1187" group-title="Punjabi",MH One
+https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
+#EXTINF:-1 tvg-id="MH One.in@SD" tvg-name="MH One" tvg-chno="1187" ch-number="1187" group-title="Punjabi",MH One
+https://paramount.jswk.online/shraddhamhone/index.m3u8
+#EXTINF:-1 tvg-id="Balle Balle.in@SD" tvg-name="Balle Balle" tvg-chno="1188" ch-number="1188" group-title="Punjabi",Balle Balle
+#EXTINF:-1 tvg-id="PTC News.in@SD" tvg-name="PTC News" tvg-chno="1190" ch-number="1190" group-title="Punjabi",PTC News
+https://cdn-4.pishow.tv/live/1502/master.m3u8
+#EXTINF:-1 tvg-id="News18 Punjab/Haryana/Himachal.in@SD" tvg-name="News18 Punjab/Haryana/Himachal" tvg-chno="1191" ch-number="1191" group-title="Punjabi",News18 Punjab/Haryana/Himachal
+https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="India News Haryana.in@SD" tvg-name="India News Haryana" tvg-chno="1193" ch-number="1193" group-title="Punjabi",India News Haryana
+https://newsxott.in/hls/indianewsharyana.m3u8
+#EXTINF:-1 tvg-id="Manoranjan Movies.in@SD" tvg-name="Manoranjan Movies" tvg-chno="1195" ch-number="1195" group-title="Punjabi",Manoranjan Movies
+https://cdn-2.pishow.tv/live/228/master.m3u8
