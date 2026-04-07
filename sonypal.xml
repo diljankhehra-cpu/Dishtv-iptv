@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
 <channel id="sonypal.in"><display-name>Sony Pal</display-name></channel>
-<programme start="20260406184359 +0530" stop="20260406191359 +0530" channel="sonypal.in">
+<programme start="20260407012803 +0530" stop="20260407015803 +0530" channel="sonypal.in">
 <title>Taarak Mehta Ka Ooltah Chashmah</title><category>Comedy</category></programme>
-<programme start="20260406191359 +0530" stop="20260406194359 +0530" channel="sonypal.in">
+<programme start="20260407015803 +0530" stop="20260407022803 +0530" channel="sonypal.in">
 <title>Crime Patrol</title><category>Crime</category></programme>
-<programme start="20260406194359 +0530" stop="20260406201359 +0530" channel="sonypal.in">
+<programme start="20260407022803 +0530" stop="20260407025803 +0530" channel="sonypal.in">
 <title>Mere Sai</title><category>Drama</category></programme>
-<programme start="20260406201359 +0530" stop="20260406204359 +0530" channel="sonypal.in">
+<programme start="20260407025803 +0530" stop="20260407032803 +0530" channel="sonypal.in">
 <title>Adaalat</title><category>Courtroom Drama</category></programme>
 </tv>
